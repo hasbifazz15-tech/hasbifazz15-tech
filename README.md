@@ -1,25 +1,27 @@
-# 👋 Hi, I'm Hasbi Aldis Fauzan
+````md
+<div align="center">
 
-### `Full Stack Developer • RPL Student • Tech Enthusiast`
+# HASBI ALDIS FAUZAN
 
-I'm a student from **SMKN 64 Jakarta** majoring in **Rekayasa Perangkat Lunak (RPL)**.
+### FULL STACK DEVELOPER · RPL STUDENT · TECH ENTHUSIAST
 
-I enjoy building websites, applications, learning new technologies, and experimenting with different projects.
+SMKN 64 Jakarta · Rekayasa Perangkat Lunak
 
----
-
-## 🚀 About Me
-
-- 🎓 RPL Student at SMKN 64 Jakarta
-- 💻 Interested in Web Development
-- 🌱 Currently learning Laravel, Flutter, PHP & JavaScript
-- 🛠️ Enjoy building CRUD applications and APIs
-- 🎮 Gaming & technology enthusiast
-- 📚 Always learning something new
+</div>
 
 ---
 
-## 💻 Tech Stack
+## ABOUT ME
+
+I'm a student from SMKN 64 Jakarta majoring in Rekayasa Perangkat Lunak.
+
+I enjoy building web applications, mobile applications, REST APIs, and learning new technologies.
+
+Currently focused on Laravel, Flutter, PHP, JavaScript, databases, and modern development tools.
+
+---
+
+## TECH STACK
 
 ### Languages
 
@@ -41,57 +43,102 @@ I enjoy building websites, applications, learning new technologies, and experime
 
 ---
 
-## 📊 GitHub Stats
+## GITHUB STATS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasbifazz15-tech&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbifazz15-tech&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=hasbifazz15-tech&show_icons=true&theme=tokyonight&hide_border=true" height="180">
 
-## 🔥 GitHub Streak
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbifazz15-tech&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hasbifazz15-tech&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## GITHUB STREAK
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/hasbifazz15-tech/hasbifazz15-tech/gh-pages/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
----
+<div align="center">
 
-## 📈 Contribution Graph
+<img src="https://streak-stats.demolab.com?user=hasbifazz15-tech&theme=tokyonight&hide_border=true">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasbifazz15-tech&theme=tokyo-night&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🧑‍💻 What I Build
+## CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hasbifazz15-tech/hasbifazz15-tech/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
+## PROJECTS
+
+### Laravel
+
+Web applications built using Laravel, PHP, MySQL, Filament, and REST APIs.
+
+### Flutter
+
+Mobile applications built using Flutter and Dart with CRUD functionality and API integration.
+
+### School Projects
+
+Various software development projects created during my studies in Rekayasa Perangkat Lunak.
+
+---
+
+## CURRENTLY LEARNING
 
 ```text
-Web Applications
-├── Laravel
-├── PHP
-├── MySQL
-└── JavaScript
+Laravel
+Flutter
+PHP
+JavaScript
+REST API
+MySQL
+Database Design
+Git & GitHub
+UI/UX
+````
 
-Mobile Applications
-├── Flutter
-├── Dart
-└── REST API
+---
 
-Development
-├── Git
-├── GitHub
-├── VS Code
-└── Laragon
+## DEVELOPMENT ENVIRONMENT
+
+```text
+Windows
+VS Code
+Laragon
+Git
+GitHub
+MySQL
+```
+
+---
+
+## CONNECT
+
+<div align="center">
+
+<a href="https://github.com/hasbifazz15-tech">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### HASBI ALDIS FAUZAN
+
+`BUILD · LEARN · IMPROVE`
+
+</div>
+```
+
+Ini sudah pakai **Snake dari branch `gh-pages`**, jadi bagian Snake-nya sesuai setup yang tadi berhasil.
