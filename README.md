@@ -1,98 +1,82 @@
-#  Hi, I'm Hasbi
+<div align="center">
 
-###  Software Engineering Student | Web Developer
+# HASBI ALDIS FAUZAN
 
-Welcome to my GitHub profile! 🚀
+### Software Developer • UI/UX • RPL Student
 
-I'm a Software Engineering (RPL) student who is interested in
-Web Development and Software Engineering.
+[Portfolio](https://website-lu.com) •
+[LinkedIn](https://linkedin.com/in/username) •
+[Email](mailto:email@gmail.com)
 
-I enjoy learning new technologies, building projects, and
-improving my programming skills through real-world projects.
-
----
-
-##  About Me
-
--  Software Engineering (RPL) Student
--  Interested in Web Development
--  Currently learning PHP & Laravel
--  Interested in MySQL & Database Management
--  Enjoy building web-based applications
--  Preparing my projects and skills for PKL
+</div>
 
 ---
 
-##  Skills
+## About Me
 
-###  Programming & Web
+I'm a passionate software developer and RPL student who loves
+exploring how things work behind the scenes.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-###  Database & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I'm currently focused on building web and mobile applications
+while continuously improving my programming skills.
 
 ---
 
-##  Featured Projects
+## Tech Stack
 
-###  Sistem Peminjaman Barang
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-Web application for managing the borrowing and returning
-of school equipment.
+### Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**Features:**
--  Authentication & Login
--  Role Management
--  Equipment Management
--  Borrowing & Returning
--  Student Management
--  Dashboard
-
-**Tech Stack:** PHP • Laravel • MySQL • Blade
-
----
-
-### Web Development Projects
-
-Collection of my web development projects created during
-my studies and learning journey.
-
-**Tech Stack:** HTML • CSS • PHP • Laravel • MySQL
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-![Hasbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasbifazz15-tech&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasbifazz15-tech&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=github-dark-blue&hide_border=true" />
 
-## GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hasbifazz15-tech&theme=tokyonight&hide_border=true)
+</div>
 
 ---
 
-## Contact
+## Contribution Graph
 
-If you'd like to connect or discuss a project, feel free to reach out.
+<div align="center">
 
--  GitHub: [@hasbifazz15-tech](https://github.com/hasbifazz15-tech)
--  Email: hasbifazz15@gmail.com
+![Snake animation](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
-###  "Keep Learning, Keep Building."
+## Featured Projects
 
- Thanks for visiting my profile!
+| Project | Description |
+|---|---|
+| **Project 1** | Web application |
+| **Project 2** | Mobile application |
+| **Project 3** | Laravel application |
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile
+
+</div>
