@@ -61,9 +61,11 @@ I enjoy building websites, applications, learning new technologies, and experime
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hasbifazz15-tech/hasbifazz15-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/hasbifazz15-tech/hasbifazz15-tech/gh-pages/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
-
 ---
 
 ## 📈 Contribution Graph
