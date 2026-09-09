@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Hasbi
+#  Hi, I'm Hasbi
 
-### 💻 Software Engineering Student | Web Developer
+###  Software Engineering Student | Web Developer
 
 Welcome to my GitHub profile! 🚀
 
@@ -12,20 +12,20 @@ improving my programming skills through real-world projects.
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Software Engineering (RPL) Student
-- 💻 Interested in Web Development
-- 🌱 Currently learning PHP & Laravel
-- 🗄️ Interested in MySQL & Database Management
-- 🔧 Enjoy building web-based applications
-- 🚀 Preparing my projects and skills for PKL
+-  Software Engineering (RPL) Student
+-  Interested in Web Development
+-  Currently learning PHP & Laravel
+-  Interested in MySQL & Database Management
+-  Enjoy building web-based applications
+-  Preparing my projects and skills for PKL
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
-### 💻 Programming & Web
+###  Programming & Web
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -33,7 +33,7 @@ improving my programming skills through real-world projects.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🗄️ Database & Tools
+###  Database & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,20 +42,20 @@ improving my programming skills through real-world projects.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📦 Sistem Peminjaman Barang
+###  Sistem Peminjaman Barang
 
 Web application for managing the borrowing and returning
 of school equipment.
 
 **Features:**
-- 🔐 Authentication & Login
-- 👤 Role Management
-- 📦 Equipment Management
-- 📝 Borrowing & Returning
-- 👨‍🎓 Student Management
-- 📊 Dashboard
+-  Authentication & Login
+-  Role Management
+-  Equipment Management
+-  Borrowing & Returning
+-  Student Management
+-  Dashboard
 
 **Tech Stack:** PHP • Laravel • MySQL • Blade
 
@@ -89,7 +89,7 @@ my studies and learning journey.
 If you'd like to connect or discuss a project, feel free to reach out.
 
 -  GitHub: [@hasbifazz15-tech](https://github.com/hasbifazz15-tech)
--  Email: your-email@example.com
+-  Email: hasbifazz15@gmail.com
 
 ---
 
