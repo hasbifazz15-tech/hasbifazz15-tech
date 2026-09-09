@@ -1,148 +1,133 @@
-<!-- ================= HEADER ================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111827,100:2563EB&height=220&section=header&text=Muhammad%20Yazid%20Hazami&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20UI%2FUX%20%7C%20Junior%20Developer&descAlignY=58&descSize=17&animation=fadeIn"/>
+# Muhammad Yazid Hazami
 
-</div>
+### Software Developer • UI/UX • Junior Developer
 
-<div align="center">
-
-<a href="https://github.com/hasbifazz15-tech">
-<img src="https://img.shields.io/badge/GitHub-hasbifazz15--tech-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://YOUR-PORTFOLIO.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<!-- ================= ABOUT ================= -->
-
-## 👋 About Me
-
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-I'm **Muhammad Yazid Hazami**, a student developer from Indonesia who enjoys
-building applications and exploring how things work behind the scenes.
-
-I'm currently focused on improving my skills in **software engineering,
-frontend development, backend development, and UI/UX design.**
-
-### 🎯 What I'm focusing on
-
-- 💻 Building real-world applications
-- 🎨 Creating clean and modern interfaces
-- ⚙️ Learning backend & API development
-- 🧠 Improving problem-solving skills
-- 🚀 Exploring new technologies
-- 📚 Continuously learning and experimenting
-
-<br clear="right"/>
-
----
-
-<!-- ================= QUICK INFO ================= -->
-
-## ⚡ Quick Info
-
-<div align="center">
-
-| | |
-|:---:|:---|
-| 🎓 **Role** | Student Developer |
-| 💻 **Focus** | Software Engineering |
-| 🎨 **Interest** | UI/UX & Web Development |
-| 🌏 **Location** | Indonesia |
-| 🔭 **Currently** | Building & Learning |
-| 💡 **Mindset** | Learn → Build → Improve |
+<p>
+  <a href="https://github.com/hasbifazz15-tech">GitHub</a>
+  •
+  <a href="mailto:emailkamu@gmail.com">Email</a>
+</p>
 
 </div>
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+## About Me
 
-## 🛠️ Tech Stack
+I'm a passionate student developer who loves exploring how things
+work behind the scenes.
 
-### Frontend
+I'm currently focused on building web and mobile applications
+while continuously improving my programming and problem-solving skills.
+
+I'm also interested in UI/UX, backend development, databases,
+and modern web technologies.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+</p>
+
+### Tools & Database
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</p>
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=hasbifazz15-tech&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+  height="170"
+/>
 
-</div>
-
-### Backend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express,rest&perline=5"/>
-
-</div>
-
-### Database
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=5"/>
-
-</div>
-
-### Tools & Platforms
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,androidstudio,postman,figma,vscode&perline=7"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbifazz15-tech&layout=compact&theme=github_dark&hide_border=true"
+  height="170"
+/>
 
 </div>
 
 ---
 
-<!-- ================= WHAT I DO ================= -->
+## GitHub Streak
 
-## 💻 What I Do
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=hasbifazz15-tech&theme=github-dark-blue&hide_border=true"
+  width="500"
+/>
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/hasbifazz15-tech/hasbifazz15-tech/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🌐 Web Development
+### Laravel Project
 
-Building responsive and modern web applications using:
+Web application built with Laravel and MySQL.
 
-- HTML & CSS
-- JavaScript / TypeScript
-- React
-- Next.js
-- Tailwind CSS
+**Technologies**
+
+`PHP` `Laravel` `MySQL`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### ⚙️ Backend Development
+### Flutter Project
 
-Working with:
+Mobile application built using Flutter.
 
-- Node.js
-- PHP
-- Laravel
-- REST API
-- MySQL
-- PostgreSQL
+**Technologies**
+
+`Dart` `Flutter` `REST API`
 
 </td>
 
@@ -150,30 +135,27 @@ Working with:
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🎨 UI / UX
+### CRUD Application
 
-I enjoy designing interfaces that are:
+CRUD application with authentication and database integration.
 
-- Clean
-- Modern
-- Responsive
-- Easy to use
-- Consistent
+**Technologies**
+
+`PHP` `MySQL` `HTML` `CSS`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📱 Application Development
+### Portfolio
 
-Exploring application development with:
+Personal portfolio website showcasing projects and skills.
 
-- Android Studio
-- REST API
-- Backend integration
-- Database systems
+**Technologies**
+
+`HTML` `CSS` `JavaScript`
 
 </td>
 
@@ -182,93 +164,36 @@ Exploring application development with:
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+## Currently Learning
 
-## 🚀 Featured Projects
+- Laravel
+- Flutter
+- REST API
+- MySQL
+- UI/UX Design
+- Backend Development
+- Git & GitHub
+
+---
+
+## Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/hasbifazz15-tech/TODO-REPO-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hasbifazz15-tech&repo=TODO-REPO-1&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/hasbifazz15-tech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://github.com/hasbifazz15-tech/TODO-REPO-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hasbifazz15-tech&repo=TODO-REPO-2&theme=github_dark&hide_border=true"/>
+<a href="mailto:emailkamu@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
-<br>
-
-> 💡 **Replace `TODO-REPO-1` and `TODO-REPO-2` with your actual repository names.**
-
 ---
-
-<!-- ================= GITHUB STATS ================= -->
-
-## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=hasbifazz15-tech&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"/>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbifazz15-tech&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+### Thanks for visiting my profile
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img width="70%"
-src="https://streak-stats.demolab.com/?user=hasbifazz15-tech&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F97316&currStreakLabel=58A6FF"/>
-
-</div>
-
----
-
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=hasbifazz15-tech&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&hide_border=true"
-width="95%"/>
-
-</div>
-
----
-
-<!-- ================= CURRENTLY LEARNING ================= -->
-
-## 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,docker,figma&perline=4"/>
-
-<br><br>
-
-`TypeScript` · `Next.js` · `Docker` · `UI/UX`
-
-</div>
-
----
-
-<!-- ================= GOALS ================= -->
-
-## 🎯 Goals
-
-```text
-[✓] Learn web development
-[✓] Build real-world projects
-[✓] Learn frontend development
-[✓] Learn backend development
-[ ] Build larger production applications
-[ ] Contribute to open-source projects
-[ ] Improve system design skills
-[ ] Build a strong developer portfolio
