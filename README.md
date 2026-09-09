@@ -60,13 +60,10 @@ and modern web technologies.
 
 ## GitHub Stats
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=hasbifazz15-tech&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-  height="170"
-/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasbifazz15-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbifazz15-tech&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbifazz15-tech&layout=compact&theme=github_dark&hide_border=true"
   height="170"
