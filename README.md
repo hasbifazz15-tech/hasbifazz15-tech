@@ -7,7 +7,7 @@
 <p>
   <a href="https://github.com/hasbifazz15-tech">GitHub</a>
   •
-  <a href="mailto:hasbifazz15@gmail.com">Email</a>
+  <a href="hasbifazz15@gmail.com">Email</a>
 </p>
 
 </div>
