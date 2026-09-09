@@ -1,117 +1,97 @@
 ````md
-<div align="center">
+# Hi, I'm Hasbi Aldis Fauzan
 
-# HASBI ALDIS FAUZAN
+### `Full Stack Developer • RPL Student • Tech Enthusiast`
 
-`RPL STUDENT`  ·  `WEB DEVELOPER`  ·  `MOBILE DEVELOPER`
+I'm a student from **SMKN 64 Jakarta** majoring in **Rekayasa Perangkat Lunak (RPL)**.
 
-SMKN 64 JAKARTA
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,js,html,css,mysql,git,github,vscode&perline=11">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hasbifazz15-tech&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbifazz15-tech&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hasbifazz15-tech&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e">
-
-</div>
+I enjoy building websites, applications, learning new technologies, and experimenting with different projects.
 
 ---
 
-## ABOUT ME
+## About Me
 
-I'm Hasbi Aldis Fauzan, a student majoring in Rekayasa Perangkat Lunak at SMKN 64 Jakarta.
+- RPL Student at SMKN 64 Jakarta
+- Interested in Web Development
+- Currently learning Laravel, Flutter, PHP & JavaScript
+- Enjoy building CRUD applications and APIs
+- Gaming & technology enthusiast
+- Always learning something new
 
-I focus on building web applications, mobile applications, APIs, and database-driven systems.
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,dart,html,css,sql" />
+</p>
+
+### Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap,tailwind,git,github,vscode" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasbifazz15-tech&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbifazz15-tech&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hasbifazz15-tech&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/hasbifazz15-tech/hasbifazz15-tech/gh-pages/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+## What I Build
 
 ```text
-Focus
-├── Web Development
-├── Mobile Development
-├── REST API
-├── Database
-└── Software Development
+Web Applications
+├── Laravel
+├── PHP
+├── MySQL
+└── JavaScript
+
+Mobile Applications
+├── Flutter
+├── Dart
+└── REST API
+
+Development
+├── Git
+├── GitHub
+├── VS Code
+└── Laragon
 ````
 
----
-
-## TECH STACK
-
-| Category   | Technologies                           |
-| ---------- | -------------------------------------- |
-| Languages  | PHP, JavaScript, Dart, HTML, CSS, SQL  |
-| Frameworks | Laravel, Flutter, Bootstrap, Tailwind  |
-| Database   | MySQL, SQLite                          |
-| Tools      | Git, GitHub, VS Code, Laragon, Postman |
-
----
-
-## WHAT I BUILD
-
-```text
-Laravel Applications
-PHP Applications
-Flutter Applications
-REST APIs
-CRUD Systems
-Database Systems
-School Projects
 ```
 
----
-
-## GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hasbifazz15-tech/hasbifazz15-tech/gh-pages/github-contribution-grid-snake.svg">
-
-</div>
-
----
-
-## DEVELOPMENT
-
-```text
-PLAN
-   ↓
-DESIGN
-   ↓
-CODE
-   ↓
-TEST
-   ↓
-DEBUG
-   ↓
-DEPLOY
-```
-
----
-
-<div align="center">
-
-## HASBI ALDIS FAUZAN
-
-`BUILD • LEARN • IMPROVE`
-
-</div>
+Ini versi yang sama dengan punya lu, **tanpa satu pun emoji**, dan bagian Contribution Graph yang kosong sudah dibuang.
 ```
