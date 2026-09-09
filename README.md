@@ -1,6 +1,6 @@
 <div align="center">
 
-# Muhammad Yazid Hazami
+# Hasbi Aldis Fauzan
 
 ### Software Developer • UI/UX • Junior Developer
 
@@ -88,10 +88,12 @@ and modern web technologies.
 </div>
 
 ---
-
+## Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/hasbifazz15-tech/hasbifazz15-tech/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p> ---
 ## Contribution Graph
 
 <div align="center">
+  
+---
 
 <img
   src="https://raw.githubusercontent.com/hasbifazz15-tech/hasbifazz15-tech/output/github-contribution-grid-snake-dark.svg"
